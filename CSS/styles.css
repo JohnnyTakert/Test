@@ -1,3 +1,60 @@
 body {
-  font-family: "Tangerine", cursive;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+address {
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+input {
+  padding: 8px;
+  font-family: inherit;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
 }
