@@ -27,6 +27,10 @@ p mark {
   color: red;
 } */
 
+* {
+  box-sizing: border-box;
+}
+
 h1 {
   color: red;
   text-align: center;
